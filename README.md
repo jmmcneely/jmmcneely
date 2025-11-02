@@ -1,3 +1,6 @@
+- Over 2 years ago I started teaching at Chabot College in the Computer Science and Business Department.  I am currently
+- building a course to teach new Computer Science students entry level topics with AI.
+
 - 👋 Hi, I’m @jmmcneely - most of my career has been in technical project/program or engineering/applications management. My
   strength is managing technical resources, yet still being very customer/business centric. Currently looking for new job opps.
 - 👀 I’m interested in anything SRE, most experience with SLI and SLO design and development.
